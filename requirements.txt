@@ -1,0 +1,5 @@
+sounddevice>=0.4.6
+webrtcvad>=2.0.10
+vosk>=0.3.50
+pywin32>=305; platform_system=="Windows"
+pyautogui>=0.9.53; platform_system=="Windows"
