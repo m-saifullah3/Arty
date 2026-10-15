@@ -1,2 +1,2 @@
 # Arty
-Artificial Assistant
+Artificial Assistant.
